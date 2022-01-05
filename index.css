@@ -1,0 +1,8 @@
+.text{
+    font-size: 200px;
+    color: red;
+    opacity: 1 !important;
+}
+body{
+    opacity: 1 !important;
+}
