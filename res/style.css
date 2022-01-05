@@ -496,15 +496,6 @@ img.mouse {
 
 
 
-/* .services-arrow {
-  font-size: 250%;
-} */
-/* .services-arrow > div {
-  display: inline-block;
-  cursor: pointer;
-  color: #3abfc8;
-} */
-
 .main-header {
   display: block;
   width: 100%;
@@ -708,11 +699,7 @@ img.mouse {
   font-size: 110%;
   line-height: 1.2em;
 }
-/* .services-container  {
-  display:block;
-  height:450px;
-  
-} */
+
 
 /* текст под услугами */
  .services-container p {
@@ -846,12 +833,7 @@ img.mouse {
     /* padding: 1rem; */
     z-index: 999999;
   }
-  /* .workplace-inner-number:nth-child(2) {
-    margin: 0px;
-  }
-  .workplace-inner-number {
-    width: 100%;
-  } */
+
   .frame-inner h1 {
     padding: 0px;
     display: none;
@@ -952,8 +934,7 @@ img.mouse {
   }
   .services {
     padding-top: 25px;
-    /* display block;    
-    height:500%; */
+   
   }
 
 
